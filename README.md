@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Pedro 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/pedroramirez97/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:pedrolro97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -21,13 +21,13 @@ When I'm not working with data, I enjoy playing videogames and swimming. I’m d
       
 ## 🔭 What I'm Currently Working On 
 
-- * **Textile Manufacturing BI System:** Building a complete data infrastructure from scratch for a clothing factory, migrating physical records into a normalized SQL relational model to analyze profit margins and inventory turnover.
+- **Textile Manufacturing BI System:** Building a complete data infrastructure from scratch for a clothing factory, migrating physical records into a normalized SQL relational model to analyze profit margins and inventory turnover.
 - **SLA & Contract Compliance Dashboard:** Analyzing ticket resolution performance and data patterns to optimize SLA compliance rates in enterprise B2B environments.
 
 ## 🌱 Currently Learning 
 
-- * Advanced DAX and data modeling techniques in Power BI.
-- * Cloud data workflows and advanced business metrics optimization.
+- Advanced DAX and data modeling techniques in Power BI.
+- Advanced Python libraries for Data Science (Scikit-Learn) and ETL pipeline automation.
 
 ## 🛠️ Technical Skillset
 
@@ -49,8 +49,8 @@ When I'm not working with data, I enjoy playing videogames and swimming. I’m d
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Beginner-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Beginner-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
