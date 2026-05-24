@@ -44,7 +44,7 @@ When I'm not working with data, I enjoy playing videogames and swimming. I’m d
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
